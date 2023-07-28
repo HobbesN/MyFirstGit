@@ -7,3 +7,5 @@ print(" ");
 print("C");
 print("T");
 print("Y");
+for i in range(1,11):
+    print(i);
